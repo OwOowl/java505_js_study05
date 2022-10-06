@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a258408-0757-46d5-a00a-baa60f09f303" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/study01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study06.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665014869716</updated>
-      <workItem from="1665014871009" duration="22278000" />
+      <workItem from="1665014871009" duration="22612000" />
     </task>
     <servers />
   </component>
